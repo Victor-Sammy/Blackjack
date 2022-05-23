@@ -1,0 +1,29 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(img/grnblk.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 200px;
+
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: green;
+    background-color: goldenrod;
+    width: 150px;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 2px;
+}
